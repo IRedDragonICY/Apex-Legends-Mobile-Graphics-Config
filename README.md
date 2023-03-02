@@ -19,7 +19,19 @@ Ultra HD = -766085218
 Extreme HD = 1286181604
 
 Original = 790879869
-  
+
+Graphics Style
+
+a03c0c6de1e3cd05a97b80df298bc59f = (Graphics Style)
+
+Classic = 96695834
+
+Vivid = -94673610
+
+Realistic = 750242637
+
+Soft = 1436229058
+
 [FastPicture]
 
 Frame Rate
@@ -33,4 +45,4 @@ Very High = -1904371312
   
 Ultra = 1241693829
 
-
+120 FPS = 2057033963
