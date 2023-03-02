@@ -8,13 +8,13 @@ Graphic Quality
 1223cb9aa122848c727499e6f0ac3605 = <Graphics Quality>
 
 
-Ultra HD
--766085218
-Extreme HD
-1286181604
+HD
 
-Original
-790879869
+Ultra HD = -766085218
+
+Extreme HD = 1286181604
+
+Original = 790879869
   
 [FastPicture]
 
