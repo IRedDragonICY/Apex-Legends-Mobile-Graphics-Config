@@ -5,8 +5,8 @@ About UserCustom.ini Customization in Apex Legends Mobile.
 [BR]
 
 Graphic Quality
-1223cb9aa122848c727499e6f0ac3605 = <Graphics Quality>
 
+1223cb9aa122848c727499e6f0ac3605 = <Graphics Quality>
 
 HD
 
